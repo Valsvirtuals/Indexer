@@ -9,10 +9,10 @@ partlist :
 (for one glove)  
 -1 ProtoGlove (you only need ProtoGuides on the second knuckles of each fingers)  
 -1 of each 3d printed parts per fingers (use the thumb variant of the frame for the thumb, and if not using splay pring splay pot placeholder)  
--green pots, 5 for curl +5 if you want splay  
+-green pots, 5 for curl +5 if you want splay, reff: RK097N
 -10 2mm diameter and at least 13mm length nails (as axels)  
--esp32  
--wires  
+-ESP32 (any devkit should work though i recoment wemos ESP32 mini )   
+-wires (i like to repurpose IDE flat cable)  
 -some time and motivation 🙂  
 
 Configuratiopn 1: curl only
