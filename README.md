@@ -3,7 +3,7 @@
 
 ![alt text](https://github.com/Valsvirtuals/Indexer/blob/main/media/title.png?raw=true)
 
-inspired by [LucidVR's Lucid Glove](https://github.com/LucidVR/lucidgloves)
+inspired by [LucidVR's Lucid Glove](https://github.com/LucidVR/lucidgloves)  
 work well with [Exia's firmware](https://github.com/JohnRThomas/OpenGloves-Firmware)
 
 documentation is work in progress
