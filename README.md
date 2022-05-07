@@ -3,7 +3,7 @@
 
 ![alt text](https://github.com/Valsvirtuals/Indexer/blob/main/media/title.png?raw=true)
 
-work well with [Exia's firmware](https://github.com/JohnRThomas/FlexiaGloves)
+work well with [Exia's firmware](https://github.com/JohnRThomas/OpenGloves-Firmware)
 
 documentation is work in progress
 
