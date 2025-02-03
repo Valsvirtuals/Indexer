@@ -12,6 +12,4 @@ if you need help don't hesitate to contact me on discord
 
 ## Links
 
-[Discord](https://discord.gg/g6XpeCnUfG)  
-[Patreon](https://www.patreon.com/valsvirtuals)  
 [YouTube](https://www.youtube.com/c/WalooW)
